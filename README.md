@@ -1,6 +1,11 @@
 # Strive Backend Coding Challenge - Pokedex!
 Wecome to the code repository for Strive's backend coding challenge in creating a pokedex api. 
 
+### Public Demo
+View the publicaly deployed app:
+  * API: https://urchin-app-smvrl.ondigitalocean.app/api/
+  * Admin Portal: https://urchin-app-smvrl.ondigitalocean.app/admin/
+
 # To Get Started
 Follow the steps below to get started.
 
@@ -79,3 +84,10 @@ The following shows a few ways to use the API
   * Response in german:
     * curl "http://127.0.0.1:8000/api/pokemon/1/" -H "Accept-Language: de-es" -H "Accept: application/xml"
 
+# API Usage Examples: Publicly Deployed
+The following are examples you can try on the publicly deployed api.
+
+* View a list of pokemon: https://urchin-app-smvrl.ondigitalocean.app/api/pokemon/
+* Query a pokemon by ID:
+  * https://urchin-app-smvrl.ondigitalocean.app/api/pokemon/22/
+  * https://urchin-app-smvrl.ondigitalocean.app/api/pokemon/?id=22
