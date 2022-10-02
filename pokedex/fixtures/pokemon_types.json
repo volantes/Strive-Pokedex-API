@@ -1,0 +1,128 @@
+[
+    {
+        "model": "pokedex.type",
+        "pk": 0,
+        "fields": {
+            "type": "Grass"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 1,
+        "fields": {
+            "type": "Bug"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 2,
+        "fields": {
+            "type": "Dark"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 3,
+        "fields": {
+            "type": "Ice"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 4,
+        "fields": {
+            "type": "Psychic"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 5,
+        "fields": {
+            "type": "Steel"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 6,
+        "fields": {
+            "type": "Ground"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 7,
+        "fields": {
+            "type": "Normal"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 8,
+        "fields": {
+            "type": "Fighting"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 9,
+        "fields": {
+            "type": "Flying"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 10,
+        "fields": {
+            "type": "Rock"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 11,
+        "fields": {
+            "type": "Dragon"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 12,
+        "fields": {
+            "type": "Fairy"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 13,
+        "fields": {
+            "type": "Poison"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 14,
+        "fields": {
+            "type": "Water"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 15,
+        "fields": {
+            "type": "Ghost"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 16,
+        "fields": {
+            "type": "Fire"
+        }
+    },
+    {
+        "model": "pokedex.type",
+        "pk": 17,
+        "fields": {
+            "type": "Electric"
+        }
+    }
+]
