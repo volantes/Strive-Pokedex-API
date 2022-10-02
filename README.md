@@ -20,10 +20,9 @@ Follow the steps below to get started.
 ### Initial Project Setup
 Now that we have the environement set up, lets set up the project.
 * To test if the project starts, run the following in the command shell (for Windows):
-  *  To change directories into bcc_pokemon: `cd bcc_pokemon`
   *  To start the test server for the project: `py manage.py runserver`
-  *  To test that the server started (after a few moments), to to http://127.0.0.1:8000/pokedex/ in the browser.
-     *  You should see a welcome message: `Welcome to the Backend Coding Challenge Pokedex app index page.`
+  *  To test that the server started (after a few moments), to to http://127.0.0.1:8000 in the browser.
+     *  You should see a welcome message: `Welcome to the Strive Backend Coding Challenge index page. Visit /api/ for more fun.`
 * Populating Data: If all is working so far, continue by running the following in the command shell (for Windows):
   * To set up the project's database structure: `py manage.py migrate`
   * To populate the database with data run: 
